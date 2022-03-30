@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayshark
 - 👀 I’m interested in web development - both front-end and back-end.
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on issues that will help me grow into who I want to become
+- 💞️ I’m looking to build websites and chatbots
 - 📫 How to reach me ...
 
 <!---
